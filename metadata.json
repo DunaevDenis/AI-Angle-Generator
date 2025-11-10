@@ -1,0 +1,5 @@
+{
+  "name": "AI Angle Generator",
+  "description": "Upload an image and have the Gemini AI generate three new versions of it from different camera angles: low-angle, high-angle, and side-view.",
+  "requestFramePermissions": []
+}
